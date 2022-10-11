@@ -4,8 +4,7 @@ import Header from '../components/Header'
 import styles from '../styles/Home.module.css'
 import Feed from '../components/Feed'
 import Modal from '../components/Modal'
-import Post from '../components/Post'
-import Posts from '../components/Posts'
+
 
 
 export default function Home() {
@@ -20,10 +19,7 @@ export default function Home() {
 
       <Header />
       <Feed />
-      <Modal />
-      <Posts />
-
-      
+      <Modal /> 
     </div>
   )
 }
