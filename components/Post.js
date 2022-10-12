@@ -1,8 +1,7 @@
-import { async } from "@firebase/util";
+
 import {
     BookmarkIcon,
     EllipsisHorizontalIcon,
-    BookmarkSquareIcon,
     HeartIcon,
     PaperAirplaneIcon,
     ChatBubbleOvalLeftEllipsisIcon,

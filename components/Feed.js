@@ -3,7 +3,7 @@ import MiniProfile from './MiniProfile';
 import Posts from './Posts'
 import Stories from './Stories'
 import Suggestions from './Suggestions';
-import { signIn, signOut, useSession } from 'next-auth/react';
+import { useSession } from 'next-auth/react';
 
 
 
